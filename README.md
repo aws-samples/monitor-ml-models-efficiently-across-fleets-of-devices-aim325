@@ -36,7 +36,7 @@ The workshop was configured as a [SageMaker Studio Project](https://docs.aws.ama
      5. Click on the button **Select project template**;
      6. Give a name for your project: i.e. wind-turbine-farm;
      7. Click on the button **Create project** and wait a couple of minutes. You need to see the status **Created** at the right side of the project name;
-5. Click Git tab on the top of the studio, Click Clone a Repository, enter the URI path **https://github.com/dineshkumar4u/monitor-ml-models-efficiently-across-fleets-of-devices-aim325.git** and clone the repo;
+5. Click Git tab on the top of the studio, Click Clone a Repository, enter the URI path **https://github.com/aws-samples/monitor-ml-models-efficiently-across-fleets-of-devices-aim325.git** and clone the repo;
 6. Studio will open automatically the folders of the cloned project and you're ready to start the exercises;
 
 ### What was created by the project?
